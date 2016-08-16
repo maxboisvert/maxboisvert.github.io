@@ -2,9 +2,9 @@
 main();
 
 function main() {
-  addCss('/vendor/bootstrap/dist/css/bootstrap.css')
+  addCss('/node_modules/bootstrap/dist/css/bootstrap.css')
 
-  addScript('/vendor/jquery/dist/jquery.js', function() {
+  addScript('/node_modules/jquery/dist/jquery.js', function() {
     $(document).ready(function() {
       addAuthorMetas();
       lazyloadImages();
@@ -24,7 +24,7 @@ function addAuthorMetas() {
 }
 
 function lazyloadImages() {
-  addScript('/vendor/jquery-lazyload/jquery.lazyload.js', function() {
+  addScript('/node_modules/jquery-lazyload/jquery.lazyload.js', function() {
     $('img[data-original]').lazyload()
   });
 }
