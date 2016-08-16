@@ -2,9 +2,9 @@
 main();
 
 function main() {
-  // addCss('/css/style.css');
+  addCss('/vendor/bootstrap/dist/css/bootstrap.css')
 
-  addScript('/node_modules/jquery/dist/jquery.js', function() {
+  addScript('/vendor/jquery/dist/jquery.js', function() {
     $(document).ready(function() {
       addAuthorMetas();
       lazyloadImages();
@@ -24,7 +24,7 @@ function addAuthorMetas() {
 }
 
 function lazyloadImages() {
-  addScript('/node_modules/jquery-lazyload/jquery.lazyload.js', function() {
+  addScript('/vendor/jquery-lazyload/jquery.lazyload.js', function() {
     $('img[data-original]').lazyload()
   });
 }
@@ -65,17 +65,5 @@ function addScript(src, callback) {
   }
 
   document.body.appendChild(script);
-}
-
-function addBootstrap() {
-  // <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-  var css = document.createElement("link");
-  css.href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
-  css.rel = "stylesheet";
-  css.type= "text/css";
-  css.integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7";
-  css.crossorigin="anonymous";
-
-  document.head.appendChild(css);
 }
 
