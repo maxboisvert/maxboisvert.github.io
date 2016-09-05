@@ -2,7 +2,7 @@
 main();
 
 function main() {
-  addCss('/css/style.css')
+  // addCss('/css/style.css')
 
   addScript('/node_modules/jquery/dist/jquery.js', function() {
     $(document).ready(function() {
