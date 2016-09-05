@@ -2,7 +2,7 @@
 main();
 
 function main() {
-  addCss('/node_modules/bootstrap/dist/css/bootstrap.css')
+  addCss('/css/style.css')
 
   addScript('/node_modules/jquery/dist/jquery.js', function() {
     $(document).ready(function() {
@@ -66,4 +66,3 @@ function addScript(src, callback) {
 
   document.body.appendChild(script);
 }
-
