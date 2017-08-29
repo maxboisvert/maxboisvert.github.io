@@ -2,13 +2,11 @@
 main();
 
 function main() {
-  // addCss('/css/style.css')
-
   addScript('/node_modules/jquery/dist/jquery.js', function() {
     $(document).ready(function() {
       addAuthorMetas();
-      lazyloadImages();
       addBackButtons();
+      lazyLoad();
     });
   });
 
@@ -23,9 +21,9 @@ function addAuthorMetas() {
   ]);
 }
 
-function lazyloadImages() {
-  addScript('/node_modules/jquery-lazyload/jquery.lazyload.js', function() {
-    $('img[data-original]').lazyload()
+function lazyLoad() {
+  $('template.preload').each(function() {
+    $(this).replaceWith(this.content);
   });
 }
 
