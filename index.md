@@ -2,6 +2,8 @@
 
 Welcome to my personal website :-)
 
+<img class='pull-right' title='Maxime Boisvert' width='200' src="https://secure.gravatar.com/avatar/ca2a7964ce3cdb3c8271a8ccbb8fea6c.png?s=400">
+
 I am a Production Engineering Manager at [Shopify](https://www.shopify.com/press),
 
 - [Curriculum vitae](https://maxboisvert.com/curriculum-vitae)
