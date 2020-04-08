@@ -1,68 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href="/css/style.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
   </head>
 
   <body>
-    <div class="container">
-      <h1>Maxime Boisvert</h1>
-
-      <hr>
-
-      <template class="preload">
-        <img class='pull-right' title='Maxime Boisvert' width='200' src="https://secure.gravatar.com/avatar/ca2a7964ce3cdb3c8271a8ccbb8fea6c.png?s=400">
-      </template>
-
-      <p>
-        Welcome to my personal website :-)
-      </p>
-
-      <p>
-        I am a Production Engineering Manager at <a href='https://www.shopify.com/press'>Shopify</a>,
-
-        <ul>
-          <li><a href='/curriculum-vitae' >Curriculum vitae</a></li>
-          <li><a href='https://github.com/maxboisvert' >Github</a></li>
-          <li><a href='https://ca.linkedin.com/in/maxboisvert' >Linkedin</a></li>
-          <!-- <li><a href='https://github.com/maxboisvert/dotfiles/blob/master/home/.vimrc' >.vimrc</a></li> -->
-          <!-- <li><a href='https://github.com/maxboisvert?tab=repositories&q=vim&type=source' >vim plugins</a></li> -->
-          <li><a href='https://github.com/maxboisvert?tab=repositories&q=conference&type=source' >Conference slides</a></li>
-          <li><a href='/budgetbowl' >Budgetbowl</a></li>
-          <li><a href='https://github.com/maxboisvert/blog' >Blog</a></li>
-        </ul>
-
-        an amateur artist/musician,
-        <ul>
-          <li>
-            <a href='https://maxboisvert.bandcamp.com/album/le-retour' >Music</a>
-          </li>
-          <li>
-            <a href='http://maxboisvert.deviantart.com/' >Art</a>
-          </li>
-        </ul>
-
-        and a human.
-        <ul>
-          <li><a href='https://twitter.com/maxboisvert' >Twitter</a></li>
-          <li>
-            contact@maxboisvert.com
-          </li>
-        </ul>
-        </ul>
-      </p>
-
-      <p>
-        See you soon!
-      </p>
-    </div>
-
-    <script defer src="/node_modules/jquery/dist/jquery.js"></script>
-    <script defer src="/js/app.js"></script>
-    <script defer src="/js/analytic.js"></script>
+    <zero-md src="./index.md"></zero-md>
   </body>
 </html>
