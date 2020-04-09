@@ -6,7 +6,7 @@ Welcome to my personal website :-)
 
 I am a Production Engineering Manager at [Shopify](https://www.shopify.com/),
 
-- [Curriculum vitae](https://maxboisvert.com/curriculum-vitae)
+- [Curriculum vitae](/curriculum-vitae)
 - [Github](https://github.com/maxboisvert)
 - [Linkedin](https://ca.linkedin.com/in/maxboisvert)
 - [Conference slides](https://github.com/maxboisvert?tab=repositories&q=conference&type=source)
