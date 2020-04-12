@@ -8,4 +8,4 @@ What to expect?
 - Get feedback
 - Get advices and support
 
-[Back](/)
+[Back](../)

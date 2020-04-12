@@ -87,4 +87,4 @@ Since 2010
 
 - Special Mention: Performance Scholarship
 
-[Back](/)
+[Back](../)
