@@ -16,17 +16,18 @@ Since 2019
 - Build, lead and scale technical teams
 - Manage local and remote teams
 
-### Senior Production Developer (SRE), Shopify, Montreal
+### Senior Production Engineering Developer, Shopify, Montreal
 2018 - 2019
 
 - Interview and mentor new hires and interns
-- Automatic management of Elasticsearch with k8s
+- Automatic management of Elasticsearch with Kubernetes
 - Multilanguage indexation and search support
 
-### Production Developer (SRE), Shopify, Montreal
+### Production Engineering Developer, Shopify, Montreal
 2017 - 2018
 
 - Elasticsearch, Kafka, Kubernetes, Golang
+- Datacenter to cloud migration
 - Cloud infrastructure
 
 ### Software Developer, Shopify, Montreal
