@@ -1,3 +1,0 @@
-# Coaching
-
-[Back](/)
