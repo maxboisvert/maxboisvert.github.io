@@ -1,4 +1,4 @@
-# Maxime Boisvert
+# Maxime F Boisvert
 
 <img align="right" title='Maxime Boisvert' width='200' src="https://secure.gravatar.com/avatar/ca2a7964ce3cdb3c8271a8ccbb8fea6c.png?s=400">
 
