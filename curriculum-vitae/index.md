@@ -1,4 +1,4 @@
-# Maxime Boisvert
+# Maxime F Boisvert
 
 [Email](mailto:contact@maxboisvert.com),
 [Twitter](https://twitter.com/maxboisvert),
