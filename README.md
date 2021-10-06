@@ -20,6 +20,6 @@ an amateur artist/musician,
 and a human.
 
 - [Twitter](https://twitter.com/maxboisvert)
-- [contact@maxboisvert.com](mailto:contact@maxboisvert.com)
+- [contact at maxboisvert dot com](mailto:contact@maxboisvert.com)
 
 See you soon!
