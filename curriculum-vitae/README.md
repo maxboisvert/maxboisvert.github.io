@@ -10,7 +10,10 @@ I spoke at multiple conferences.
 
 ## Experiences
 
-### Production Engineering Manager, Shopify, Montreal
+### Sr Production Development Manager, Shopify, Montreal
+Since 2019
+
+### Production Development Manager, Shopify, Montreal
 Since 2019
 
 - Build, lead and scale technical teams
@@ -36,7 +39,7 @@ Since 2019
 - Ruby on Rails (Contributor), Let's Encrypt (Contributor), Python, MySQL
 - Custom domains and HTTPS
 
-### Team leader, Lexum, Montreal
+### Software Development Manager, Lexum, Montreal
 2014 - 2016
 
 - Spring Boot, Angular, Bootstrap, Scrum
