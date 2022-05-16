@@ -19,7 +19,7 @@ Since 2019
 - Grow specialized Kafka teams for infrastructure, dev tooling and services
 - Partner with technical leaders and stakeholders
 
-### Senior Production Engineering Developer, Shopify, Montreal
+### Senior Production Developer, Shopify, Montreal
 2018 - 2019
 
 - Interview and mentor new hires and interns
