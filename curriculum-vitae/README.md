@@ -9,7 +9,7 @@ Hands-on manager with experience working on large-scale search engines and distr
 
 ## Experiences
 
-### Senior Production Development Manager, Shopify, Montreal
+### Senior Production Development Manager, Shopify, Remote
 Since 2022
 
 ### Production Development Manager, Shopify, Montreal
