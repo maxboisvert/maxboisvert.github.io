@@ -1,6 +1,5 @@
 # Maxime F Boisvert
 
-[Email](mailto:contact at maxboisvert.com),
 [Twitter](https://twitter.com/maxboisvert),
 [Linkedin](https://ca.linkedin.com/in/maxboisvert),
 [Github](https://github.com/maxboisvert)
